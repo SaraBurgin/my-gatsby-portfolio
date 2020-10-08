@@ -31,12 +31,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'cheeseit.jpg',
+    img: 'cheeseit.png',
     title: 'Cheese it!',
     info:
       'From the initial business idea to what you see today, this project was thoughout and developed by me.',
     info2:
-      'I wireframed in Figma, built using JSX, JavaScript, Next.js, React.js, PostrgreSQL database and migrations, styled with CSS Grid and Styled Components, made responsive with media queries and deployed on Heroku.',
+      'I wireframed in Figma, built using JSX, JavaScript, Next.js, React.js, PostrgreSQL database and migrations, styled with CSS Grid, Styled Components and Bootstrap, made responsive with media queries and deployed on Heroku.',
     url: 'https://cheeseit-ecommerce.herokuapp.com/',
     repo: 'https://github.com/SaraBurgin/ecommerce-store-next-js', // if no repo, the button will not show up
   },
@@ -45,17 +45,29 @@ export const projectsData = [
     img: 'laeradelvillordo.jpg',
     title: 'La Era del Villordo',
     info: 'I am currently re-designing the website for a Rental Villa in Spain.',
-    info2: '',
+    info2:
+      'I wireframed in Canva, built using JSX, JavaScript, Next.js, React.js, styled with CSS Grid, Styled Components and Bootstrap, made responsive with media queries and deployed, for the moment, on Vercel.',
+    url: 'https://la-era-del-villordo.vercel.app/',
     repo: 'https://github.com/SaraBurgin/la-era-del-villordo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'theimagegallery.jpg',
+    title: 'The Image Gallery',
+    info: 'Image Gallery created using HTML, CSS & Bootstrap, deployed on Vercel.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://image-gallery-psi.vercel.app/gallery.html',
+    repo: 'https://github.com/SaraBurgin/image-gallery', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'reacttodolist.png',
+    title: 'React TODO List',
+    info:
+      'React TODO List built with React.js, JSX, CSS & styled-components, JavaScript and deployed on Netlify.',
+    info2: '',
+    url: 'https://musing-golick-ea66e2.netlify.app/',
+    repo: 'https://github.com/SaraBurgin/react-todo-list', // if no repo, the button will not show up
   },
 ];
 
@@ -63,7 +75,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'saragonzalezburgin@hotmail.com',
 };
 
 // FOOTER DATA
@@ -71,28 +83,18 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'www.linkedin.com/in/sara-gonzalez-burgin',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/SaraBurgin',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
