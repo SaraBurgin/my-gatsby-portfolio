@@ -10,14 +10,14 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hello, my name is',
-  name: 'Sara González Burgin',
+  name: 'Sara.',
   subtitle: 'I am a Junior Frontend Developer',
   cta: 'Know more',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'sara.jpg',
+  img: 'Sara.jpg',
   paragraphOne:
     'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for user experience that has evolved with my continuous learning of programming.',
   paragraphTwo:
@@ -31,21 +31,22 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'cheeseit.jpg',
+    title: 'Cheese it!',
+    info:
+      'From the initial business idea to what you see today, this project was thoughout and developed by me.',
+    info2:
+      'I wireframed in Figma, built using JSX, JavaScript, Next.js, React.js, PostrgreSQL database and migrations, styled with CSS Grid and Styled Components, made responsive with media queries and deployed on Heroku.',
+    url: 'https://cheeseit-ecommerce.herokuapp.com/',
+    repo: 'https://github.com/SaraBurgin/ecommerce-store-next-js', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'laeradelvillordo.jpg',
+    title: 'La Era del Villordo',
+    info: 'I am currently re-designing the website for a Rental Villa in Spain.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/SaraBurgin/la-era-del-villordo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
