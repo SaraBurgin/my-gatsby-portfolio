@@ -95,7 +95,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'reacttodolist.png',
     title: 'React TODO List.',
     info: 'React TODO List built with React.js.',
     info2: `Tech stack: 
