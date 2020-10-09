@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'cheeseit.png',
+    img: 'cheeseit2.png',
     title: 'Cheese it!',
     info:
       'From the initial business idea to what you see today, this project was thoughout and developed by me.',
@@ -42,7 +42,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'laeradelvillordo.jpg',
+    img: 'laeradelvillordo2.png',
     title: 'La Era del Villordo',
     info: 'I am currently re-designing the website for a Rental Villa in Spain.',
     info2:
@@ -52,7 +52,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'theimagegallery.jpg',
+    img: 'theimagegallery2.png',
     title: 'The Image Gallery',
     info: 'Image Gallery created using HTML, CSS & Bootstrap, deployed on Vercel.',
     info2: '',
