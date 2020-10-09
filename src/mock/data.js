@@ -51,7 +51,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'buman.png',
+    img: 'buman2.png',
     title: 'Burgin Holiday Management.',
     info: 'Wireframed in Canva the design of a new website for rental home managers.',
     info2: '',
