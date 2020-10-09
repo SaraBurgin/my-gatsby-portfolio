@@ -43,7 +43,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'laeradelvillordo2.png',
-    title: 'La Era del Villordo',
+    title: 'La Era del Villordo.',
     info: 'I am currently re-designing the website for a Rental Villa in Spain.',
     info2:
       'I wireframed in Canva, built using JSX, JavaScript, Next.js, React.js, styled with CSS Grid, Styled Components and Bootstrap, made responsive with media queries and deployed, for the moment, on Vercel.',
@@ -53,8 +53,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'theimagegallery2.png',
-    title: 'The Image Gallery',
-    info: 'Image Gallery created using HTML, CSS & Bootstrap, deployed on Vercel.',
+    title: 'The Image Gallery.',
+    info: 'Image Gallery built using HTML, CSS & Bootstrap, deployed on Vercel.',
     info2: '',
     url: 'https://image-gallery-psi.vercel.app/gallery.html',
     repo: 'https://github.com/SaraBurgin/image-gallery', // if no repo, the button will not show up
@@ -62,12 +62,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'React TODO List',
+    title: 'React TODO List.',
     info:
       'React TODO List built with React.js, JSX, CSS & styled-components, JavaScript and deployed on Netlify.',
     info2: '',
     url: 'https://musing-golick-ea66e2.netlify.app/',
     repo: 'https://github.com/SaraBurgin/react-todo-list', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'buman.png',
+    title: 'Burgin Holiday Management.',
+    info: 'Wireframed in Canva the design of a new website for rental home managers.',
+    info2: '',
+    url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
   },
 ];
 
