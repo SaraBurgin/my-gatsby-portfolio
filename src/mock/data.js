@@ -22,6 +22,7 @@ export const aboutData = {
     'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for user experience that has evolved with my continuous learning of programming.',
   paragraphTwo:
     'My strongest tech skills are HTML/CSS and Javascript using React.js as a framework. The Bootcamp I attended was definitely what plunged me into the programming world and helped me through the mind shift but my continuous learning after the Bootcamp are what have established my knowledge.',
+  paragraphThree: '',
 
   resume: 'https://www.dropbox.com/s/mcv1b68mguxbpwc/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
 };
