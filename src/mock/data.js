@@ -52,6 +52,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'buman.png',
+    title: 'Burgin Holiday Management.',
+    info: 'Wireframed in Canva the design of a new website for rental home managers.',
+    info2: '',
+    url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
+  },
+  {
+    id: nanoid(),
     img: 'theimagegallery2.png',
     title: 'The Image Gallery.',
     info: 'Image Gallery built using HTML, CSS & Bootstrap, deployed on Vercel.',
@@ -68,14 +76,6 @@ export const projectsData = [
     info2: '',
     url: 'https://musing-golick-ea66e2.netlify.app/',
     repo: 'https://github.com/SaraBurgin/react-todo-list', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'buman.png',
-    title: 'Burgin Holiday Management.',
-    info: 'Wireframed in Canva the design of a new website for rental home managers.',
-    info2: '',
-    url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
   },
 ];
 
