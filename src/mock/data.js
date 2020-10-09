@@ -61,7 +61,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'reacttodolist.png',
+    img: 'project.jpg',
     title: 'React TODO List',
     info:
       'React TODO List built with React.js, JSX, CSS & styled-components, JavaScript and deployed on Netlify.',
