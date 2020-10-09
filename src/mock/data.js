@@ -24,7 +24,7 @@ export const aboutData = {
     'My strongest tech skills are HTML/CSS and Javascript using React.js as a framework. The Bootcamp I attended was definitely what plunged me into the programming world and helped me through the mind shift but my continuous learning after the Bootcamp are what have established my knowledge.',
   paragraphThree: '',
 
-  resume: 'https://www.dropbox.com/s/mcv1b68mguxbpwc/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/6g4i868ebu6auhn/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -41,7 +41,7 @@ export const projectsData = [
     - JavaScript
     - React.js
     - Next.js
-    - ley migrations
+    - Ley migrations
     - PostrgreSQL database
     - CSS Grid
     - Styled-components
@@ -55,9 +55,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'laeradelvillordo2.png',
     title: 'La Era del Villordo.',
-    info: 'I am currently re-designing the website for a Rental Villa in Spain.',
+    info: 'I am currently re-designing and building the website for a Rental Villa in Spain.',
     info2: `Tech stack:
-        - Wireframed in Canva
+        - Designed in Canva
         - JSX
         - JavaScript
         - React.js
@@ -65,7 +65,7 @@ export const projectsData = [
         - CSS Grid
         - Styled-components
         - Bootstrap
-        - Media queries
+        - Media-queries
         - Deployment on Vercel`,
     url: 'https://la-era-del-villordo.vercel.app/',
     repo: 'https://github.com/SaraBurgin/la-era-del-villordo', // if no repo, the button will not show up
@@ -74,8 +74,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'buman2.png',
     title: 'Burgin Holiday Management.',
-    info:
-      'Wireframe of the design for new website for rental home managers in Costa del Sol, Málaga.',
+    info: 'Design for new website for rental home managers in Costa del Sol, Málaga.',
     info2: `Tech stack:
         - Canva`,
     url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
