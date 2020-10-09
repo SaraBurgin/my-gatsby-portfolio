@@ -36,18 +36,18 @@ export const projectsData = [
     info:
       'From the initial business idea to what you see today, this E-commerce project was thoughout and developed by me.',
     info2: `Tech stack:
-        - Wireframed in Figma
-        - JSX
-        - JavaScript
-        - React.js
-        - Next.js
-        - ley migrations
-        - PostrgreSQL database
-        - CSS Grid
-        - Styled-components
-        - Bootstrap
-        - Media queries
-        - Deployment on Heroku`,
+    - Wireframed in Figma
+    - JSX
+    - JavaScript
+    - React.js
+    - Next.js
+    - ley migrations
+    - PostrgreSQL database
+    - CSS Grid
+    - Styled-components
+    - Bootstrap
+    - Media queries
+    - Deployment on Heroku`,
     url: 'https://cheeseit-ecommerce.herokuapp.com/',
     repo: 'https://github.com/SaraBurgin/ecommerce-store-next-js', // if no repo, the button will not show up
   },
@@ -56,8 +56,17 @@ export const projectsData = [
     img: 'laeradelvillordo2.png',
     title: 'La Era del Villordo.',
     info: 'I am currently re-designing the website for a Rental Villa in Spain.',
-    info2:
-      'I wireframed in Canva, built using JSX, JavaScript, Next.js, React.js, styled with CSS Grid, Styled Components and Bootstrap, made responsive with media queries and deployed, for the moment, on Vercel.',
+    info2: `Tech stack:
+        - Wireframed in Canva
+        - JSX
+        - JavaScript
+        - React.js
+        - Next.js
+        - CSS Grid
+        - Styled-components
+        - Bootstrap
+        - Media queries
+        - Deployment on Vercel`,
     url: 'https://la-era-del-villordo.vercel.app/',
     repo: 'https://github.com/SaraBurgin/la-era-del-villordo', // if no repo, the button will not show up
   },
@@ -66,16 +75,21 @@ export const projectsData = [
     img: 'buman2.png',
     title: 'Burgin Holiday Management.',
     info:
-      'Canva wireframe with the design of a new website for rental home managers in Costa del Sol, Málaga.',
-    info2: '',
+      'Wireframe of the design for new website for rental home managers in Costa del Sol, Málaga.',
+    info2: `Tech stack:
+        - Canva`,
     url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
   },
   {
     id: nanoid(),
     img: 'theimagegallery2.png',
     title: 'The Image Gallery.',
-    info: 'Image Gallery built using HTML, CSS & Bootstrap, deployed on Vercel.',
-    info2: '',
+    info: 'Built an image Gallery from scratch.',
+    info2: `Tech stack:
+        - HTML
+        - CSS
+        - BOOTSTRAP
+        - Deployed on Vercel`,
     url: 'https://image-gallery-psi.vercel.app/gallery.html',
     repo: 'https://github.com/SaraBurgin/image-gallery', // if no repo, the button will not show up
   },
@@ -83,9 +97,14 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'React TODO List.',
-    info:
-      'React TODO List built with React.js, JSX, CSS & styled-components, JavaScript and deployed on Netlify.',
-    info2: '',
+    info: 'React TODO List built with React.js.',
+    info2: `Tech stack: 
+        - JSX
+        - CSS 
+        - Styled-components
+        - JavaScript
+        - React.js
+        - Deployed on Netlify`,
     url: 'https://musing-golick-ea66e2.netlify.app/',
     repo: 'https://github.com/SaraBurgin/react-todo-list', // if no repo, the button will not show up
   },
@@ -104,7 +123,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'www.linkedin.com/in/sara-gonzalez-burgin',
+      url: 'https://www.linkedin.com/in/sara-gonzalez-burgin/',
     },
     {
       id: nanoid(),
