@@ -34,9 +34,20 @@ export const projectsData = [
     img: 'cheeseit2.png',
     title: 'Cheese it!',
     info:
-      'From the initial business idea to what you see today, this project was thoughout and developed by me.',
-    info2:
-      'I wireframed in Figma, built using JSX, JavaScript, Next.js, React.js, PostrgreSQL database and migrations, styled with CSS Grid, Styled Components and Bootstrap, made responsive with media queries and deployed on Heroku.',
+      'From the initial business idea to what you see today, this E-commerce project was thoughout and developed by me.',
+    info2: `Tech stack:
+        - Wireframed in Figma
+        - JSX
+        - JavaScript
+        - React.js
+        - Next.js
+        - ley migrations
+        - PostrgreSQL database
+        - CSS Grid
+        - Styled-components
+        - Bootstrap
+        - Media queries
+        - Deployment on Heroku`,
     url: 'https://cheeseit-ecommerce.herokuapp.com/',
     repo: 'https://github.com/SaraBurgin/ecommerce-store-next-js', // if no repo, the button will not show up
   },
@@ -54,7 +65,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'buman2.png',
     title: 'Burgin Holiday Management.',
-    info: 'Wireframed in Canva the design of a new website for rental home managers.',
+    info:
+      'Canva wireframe with the design of a new website for rental home managers in Costa del Sol, Málaga.',
     info2: '',
     url: 'https://www.canva.com/design/DAD-OEBMRW0/dfrjgz0dVv7bv6610U8-zQ/edit',
   },
