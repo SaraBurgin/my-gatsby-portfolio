@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'sara2.jpg',
+  img: 'sara.jpg',
   paragraphOne:
     'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for user experience that has evolved with my continuous learning of programming.',
   paragraphTwo:
