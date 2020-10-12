@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'My strongest tech skills are HTML/CSS and Javascript using React.js as a framework.',
   paragraphThree:
-    'The Bootcamp I attended was definitely what plunged me into the programming world and helped me through the mind shift but my continuous learning after the Bootcamp are what have established my knowledge.',
+    'The Bootcamp I attended plunged me into the programming world, gave me the rush and helped me through the mind shift but it is the continuous learning after that has established my knowledge.',
 
   resume: 'https://www.dropbox.com/s/w529c1l0z8bwoz6/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
 };
@@ -107,6 +107,16 @@ export const projectsData = [
         - Deployed on Netlify`,
     url: 'https://musing-golick-ea66e2.netlify.app/',
     repo: 'https://github.com/SaraBurgin/react-todo-list', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'eventDEMO.png',
+    title: 'Event DEMO.',
+    info: 'Event DEMO wireframed in Figma.',
+    info2: `Tech stack: 
+        - FIGMA`,
+    url: 'https://www.figma.com/file/0fBVDvWHK9wquqdvnkdwlt/Event_DEMO?node-id=1%3A2',
+    // if no repo, the button will not show up
   },
 ];
 
