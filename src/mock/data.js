@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     'The Bootcamp I attended was definitely what plunged me into the programming world and helped me through the mind shift but my continuous learning after the Bootcamp are what have established my knowledge.',
 
-  resume: 'https://www.dropbox.com/s/9ew88c8q2glp8s8/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/w529c1l0z8bwoz6/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
