@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for User Experience that has evolved with my continuous learning of programming.',
   paragraphTwo:
-    'My strongest tech skills are HTML/CSS and Javascript using Next.js as a React.js framework.',
+    'My strongest tech skills are HTML/JSX, SCSS and Javascript using Next.js as a React.js framework.',
   paragraphThree:
     'The Bootcamp I attended plunged me into the programming world, gave me the rush and helped me through the mind shift but it is the continuous learning after that has established my knowledge.',
 
