@@ -44,7 +44,7 @@ export const projectsData = [
     - Next.js
     - Ley migrations
     - PostrgreSQL database
-    - CSS Grid
+    - CSS
     - Styled-components
     - Bootstrap
     - Media queries
@@ -83,7 +83,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'theimagegallery2.png',
-    title: 'The Image Gallery.',
+    title: 'The fully responsive Image Gallery.',
     info: 'Built an image Gallery from scratch.',
     info2: `Tech stack:
         - HTML
