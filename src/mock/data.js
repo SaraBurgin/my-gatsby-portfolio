@@ -19,13 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'sara.jpg',
   paragraphOne:
-    'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for user experience that has evolved with my continuous learning of programming.',
+    'I am a Junior Frontend developer that pays great attention to detail, thoroughly enjoys a challenge and has a passion for User Experience that has evolved with my continuous learning of programming.',
   paragraphTwo:
-    'My strongest tech skills are HTML/CSS and Javascript using React.js as a framework.',
+    'My strongest tech skills are HTML/CSS and Javascript using Next.js as a React.js framework.',
   paragraphThree:
     'The Bootcamp I attended plunged me into the programming world, gave me the rush and helped me through the mind shift but it is the continuous learning after that has established my knowledge.',
 
-  resume: 'https://www.dropbox.com/s/w529c1l0z8bwoz6/CV_Sara%20Gonzalez.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/7w5i8h7v0zqse4l/Sara%20Gonzalez_CV.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
