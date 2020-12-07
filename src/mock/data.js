@@ -63,13 +63,31 @@ export const projectsData = [
         - JavaScript
         - React.js
         - Next.js
-        - CSS Grid
+        - CSS
         - Styled-components
         - Bootstrap
         - Media-queries
         - Deployment on Vercel`,
     url: 'https://la-era-del-villordo.vercel.app/',
     repo: 'https://github.com/SaraBurgin/la-era-del-villordo', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'pokedex.png',
+    title: 'Pokedex.',
+    info: 'Pokedex built using axios to get data from the official Pokemon API.',
+    info2: `Tech stack:
+        - JSX
+        - JavaScript
+        - axios
+        - React.js
+        - Next.js        
+        - Styled-components
+        - Bootstrap
+        - Jest
+        - Deployment on Vercel`,
+    url: 'https://pokedex-app-euqupd741.vercel.app/',
+    repo: 'https://github.com/SaraBurgin/pokedex-app/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
